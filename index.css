@@ -2,3 +2,7 @@ body {
   background-color: brown;
   color: white;
 }
+h1 {
+  background-color: violet;
+  font-size: 2em;
+}
